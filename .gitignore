@@ -1,4 +1,5 @@
 node_modules
 .vscode
-.swc
 dist
+.qodo
+package-lock.json
